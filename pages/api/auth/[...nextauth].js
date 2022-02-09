@@ -14,4 +14,11 @@ export default NextAuth({
       clientSecret: 'bbb0e4da8fe32bad1512fb7f7217444c151f4265',
     }),
   ],
+   secret: "my-super-secret-key",
+  // Configure the session.
+  session: {
+    jwt: true,
+    // The session cookie will have the same name as the provider
+    fromExtension: true,
+  },
 })
