@@ -14,7 +14,7 @@ const Biodata = () => {
         <h1 className="text-4xl font-semibold">Personal Info</h1>
         <p className="my-4">Basic Info like, your image and name</p>
       </div>
-      <div className="mx-auto my-10 flex w-full max-w-6xl flex-col items-center justify-center rounded-lg border-2 border-[#E0E0E0]">
+      <div className="my-10 flex w-full flex-col items-center justify-center rounded-lg border-2 border-[#E0E0E0] md:mx-auto md:max-w-6xl">
         <div className="flex w-full items-center justify-between border-b-2 border-[#E0E0E0] px-10 py-4">
           <div>
             <h1 className="text-3xl">Profile</h1>
