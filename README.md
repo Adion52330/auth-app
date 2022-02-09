@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://auth-app-rho.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://auth-app-rho.vercel.app/">
       Solution
     </a>
     <span> | </span>
@@ -39,7 +39,7 @@
 
 ![screenshot](https://devchallenges.io/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fdevchallenges-1234.appspot.com%2Fo%2FchallengesDesigns%252FAuthenticationAppThumbnail.png%3Falt%3Dmedia%26token%3D74f358e8-ccaf-43fc-b0fd-8b9732d80ba6&w=750&q=75)
 
-- You can see the demo at ()[]
+- You can see the demo at (https://auth-app-rho.vercel.app/)[https://auth-app-rho.vercel.app/]
 - The experience was exhilirating
 - I improved NextAuth
 
